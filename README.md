@@ -1,2 +1,2 @@
-# Number-gussing-game
+# Number-gussing-game-with-python
 Number-gussing-game with python
